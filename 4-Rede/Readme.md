@@ -6,3 +6,9 @@ Se você precisa trafegar uma quantidade muito grande de dados emtre sua infra l
 
 # V-NET
 
+
+# Load Balancer
+
+Para saber mais sobre o assunto da uma olhada nesse vídeo aqui
+
+[![-](http://i3.ytimg.com/vi/ODcQC0_RyH0/hqdefault.jpg)](https://www.youtube.com/watch?v=ODcQC0_RyH0)

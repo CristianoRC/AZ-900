@@ -6,7 +6,7 @@ Dentro de uma conta de armazenamento no Azure temos alguns recursos: Blob Sotrag
 
 ## Blob Storage(Binary Large OBject)
 
-Serve para a gente gerenciar arquivos de uma forma fácil e muito barata no Azure, ao invés de guardar os arquivos na VM, ou no seu banco de dados(pf não faça isso), com o Blob Storage você controla tudo de maneira fácil, via HTTP, SDK ou até mesmo interface gráfica.
+Serve para a gente gerenciar arquivos de uma forma fácil e muito barata no Azure, ao invés de guardar os arquivos na VM, ou no seu banco de dados(pf não faça isso), com o Blob Storage você controla tudo de maneira fácil, via HTTP, SDK ou até mesmo interface gráfica [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/). Tem três camadas de acesso, a HOT, para leitura super rápida, arquivos que são sempre usados, Cool para arquivos que não rpecisam de tanta performance, e o Archive, que veremos mais sobre no final deste arquivo.
 
 
 Sua organização é feita por conta(storage account), container(como se fossem os diretórios) e os blobs(os arquivos).

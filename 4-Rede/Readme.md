@@ -6,6 +6,9 @@ Se você precisa trafegar uma quantidade muito grande de dados emtre sua infra l
 
 # V-NET
 
+É uma forma de segregar o acesso as seus serviços(via rede). Basicamente você pode ter várias sub-redes dentro da sua infra, e dentro delas você colocar apenas os apps que precisam se comunicar, para ter uma menor chance de ter falhas de segurança ou um serviço chamando o outro sem poder. Além de bloquear as chamadas de forma interna, você pdoe definir quais dessas v-nets tem acesso via internet, gatway ou VPN.
+
+![-](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/_images/azure-best-practices/network-hub-spoke-high-level.png)
 
 # Load Balancer
 

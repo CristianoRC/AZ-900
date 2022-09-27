@@ -16,6 +16,7 @@ Documentação pessoal dos estudos para a certificação AZ 900
 
 ## Dicas de conteúdos
 
-[Simulado Online Gratuito AZ-900 - Coding Night](https://youtu.be/5ZZq54iQkS0)
-[Certificação AZ-900 Microsoft Azure Fundamentals + Simulado](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals)
+- [Simulado Online Gratuito AZ-900 - Coding Night](https://youtu.be/5ZZq54iQkS0)
+
+- [Certificação AZ-900 Microsoft Azure Fundamentals + Simulado](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals)
 

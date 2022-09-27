@@ -11,3 +11,11 @@ Documentação pessoal dos estudos para a certificação AZ 900
 1. [Resource Group](./3-ResouceGroup/Readme.md)
 1. [Rede](./4-Rede/Readme.md)
 1. [Storage](./5-Storage/Readme.md)
+
+---
+
+## Dicas de conteúdos
+
+[Simulado Online Gratuito AZ-900 - Coding Night](https://youtu.be/5ZZq54iQkS0)
+[Certificação AZ-900 Microsoft Azure Fundamentals + Simulado](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals)
+

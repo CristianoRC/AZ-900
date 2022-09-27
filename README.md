@@ -18,6 +18,10 @@ Documentação pessoal dos estudos para a certificação AZ 900
 - [Certificação AZ-900 Microsoft Azure Fundamentals + Simulado](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals)
 
 
+## Português vs Inglês
+
+Escolhi fazer a prova em português para não ter chance de me perder, mas no final acabei me perdendo um pouco mais que o normal, pois os conceitos que costumamos falar em inglês são traduzidos na prova e não fica tão legal, MAS, existe um detalhe, que você tem a opção de ver como é a pergunta originalmente em inglês, e isso salvou bastante em algumas questões que eu sabia os conceitos, mas em português parecei uma coisa completamente diferente. No final de tudo, eu indico fazer ela em português se teu inglês não ta 100%, porque temos essa opção de ver a "original" durante o teste.
+
 ## Minhas percepções sobre a prova
 
 A prova foi bem tranquila, com os conceitos que escrevi aqui nesse repositório, e as dicas de conteúdo você consegue ir fazer a prova tranquilamente, mas é muito importante você dar uma exercitada e brincar um pouco com o Azure antes, fazer criação de serviços, gerenciamento de resource groups, btincar um pouco com a parte de custos...

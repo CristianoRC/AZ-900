@@ -1,4 +1,4 @@
-<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="20%"/>
+<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="25%"/>
 
 # Estudos AZ-900 
 
@@ -17,6 +17,7 @@ Documentação pessoal dos estudos para a certificação AZ 900
 
 - [Certificação AZ-900 Microsoft Azure Fundamentals + Simulado](https://www.udemy.com/course/az-900-preparacao-para-o-exame-microsoft-azure-fundamentals)
 
+- [Simulado Disponibilizados Pela Microsoft](https://learn.microsoft.com/en-us/certifications/practice-assessments-for-microsoft-certifications)
 
 ## Português vs Inglês
 

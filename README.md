@@ -1,4 +1,4 @@
-<img src="https://www.green.com.br/site/wp-content/uploads/2019/07/9.png" width="15%"/>
+<img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="20%"/>
 
 # Estudos AZ-900 
 

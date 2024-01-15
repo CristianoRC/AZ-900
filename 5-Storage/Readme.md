@@ -1,12 +1,12 @@
 # Storage
 
-Dentro de uma conta de armazenamento no Azure temos alguns recursos: Blob Sotrage, Queue Storage, Table Storage e File Storage
+Em uma conta de armazenamento no Azure temos alguns recursos: Blob Sotrage, Queue Storage, Table Storage e File Storage
 
 ![-](https://wakeupandcode.com/wp-content/uploads/2019/08/storage-icons.png)
 
 ## Blob Storage(Binary Large OBject)
 
-Serve para a gente gerenciar arquivos de uma forma fácil e muito barata no Azure, ao invés de guardar os arquivos na VM, ou no seu banco de dados(pf não faça isso), com o Blob Storage você controla tudo de maneira fácil, via HTTP, SDK ou até mesmo interface gráfica [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/). Tem três camadas de acesso, a HOT, para leitura super rápida, arquivos que são sempre usados, Cool para arquivos que não rpecisam de tanta performance, e o Archive, que veremos mais sobre no final deste arquivo.
+Serve para a gente gerenciar arquivos de uma forma fácil e muito barata no Azure, ao invés de guardar os arquivos na VM, ou no seu banco de dados(pf não faça isso), com o Blob Storage você controla tudo de maneira fácil, via HTTP, SDK ou até mesmo interface gráfica [Azure Storage Explorer](https://azure.microsoft.com/en-us/products/storage/storage-explorer/). Tem três camadas de acesso, a HOT, para leitura super rápida, arquivos que são sempre usados, Cool para arquivos que não precisam de tanta performance, e o Archive, que veremos mais sobre no final deste arquivo.
 
 
 Sua organização é feita por conta(storage account), container(como se fossem os diretórios) e os blobs(os arquivos).
@@ -42,4 +42,4 @@ Trafega os dados entre os sistemas operacionais usando o protocolo SMB
 
 ## Archive Storage
 
-Se voc~e precisa manter os arquivos de sua empresa armazenado por um grande tempo, de forma segura e muito barato você pode usar a solução do Archive Storage. É super parato armazenar esses dados, eles ficam armazenados de forma cripptografada e uma séria de outras feature. Só não é indicado se você usa muito esses arquivos(grande quantidade de leitura). Ele é basicamente um blob storage, então todas as ferramentas usadas lá também funcionarão aqui.
+Se você precisa manter os arquivos de sua empresa armazenado por um grande tempo, de forma segura e muito barato, você pode usar a solução do Archive Storage. É super barato armazenar esses dados, eles ficam armazenados de forma criptografada e uma séria de outras feature. Só não é indicado se você usa muito esses arquivos(grande quantidade de leitura). Ele é basicamente um blob storage, então todas as ferramentas usadas lá também funcionarão aqui.

@@ -22,7 +22,7 @@ Documentação pessoal dos estudos para a certificação AZ 900
 
 ## Português vs Inglês
 
-Escolhi fazer a prova em português para não ter chance de me perder, mas no final acabei me perdendo um pouco mais que o normal, pois os conceitos que costumamos falar em inglês são traduzidos na prova e não fica tão legal, **MAS**, tem um detalhe, você tem a opção de ver como é a pergunta originalmente em inglês, e isso salvou bastante em algumas questões que eu sabia os conceitos, mas em português parecei uma coisa completamente diferente. No final de tudo, eu indico fazer ela em português se teu inglês não está 100%, porque temos essa opção de ver a "original" durante o teste.
+Escolhi fazer a prova em português para não ter chance de me perder, mas no final acabei me perdendo um pouco mais que o normal, pois os conceitos que costumamos falar em inglês são traduzidos na prova e não fica tão legal, **MAS**, tem um detalhe, você tem a opção de ver como é a pergunta originalmente em inglês, e isso salvou bastante em algumas questões que eu sabia os conceitos, mas em português parecia uma coisa completamente diferente. No final de tudo, eu indico fazer ela em português se teu inglês não está 100%, porque temos essa opção de ver a "original" durante o teste.
 
 ## Minhas percepções sobre a prova
 

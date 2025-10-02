@@ -1,0 +1,48 @@
+# Azure Table Storage
+
+O **Azure Table Storage** é um serviço de armazenamento NoSQL que permite armazenar grandes quantidades de dados semi-estruturados. Ele é ideal para cenários onde você precisa armazenar dados estruturados que não exigem as funcionalidades completas de um banco de dados relacional.
+
+## Características Principais
+
+- **Alta Escalabilidade:** Capaz de armazenar terabytes de dados e escalar conforme necessário.
+- **Performance Rápida:** Baixa latência e alta taxa de transferência para operações de leitura e escrita.
+- **Modelo de Dados Flexível:** Suporte para dados semi-estruturados com um modelo de chave/atributo.
+
+## Casos de Uso Comuns
+
+- **Armazenamento de Dados de Aplicativos Web:** Ideal para armazenar dados de sessão, logs de eventos e outros dados semi-estruturados.
+- **Catálogos de Produtos:** Armazenamento de catálogos de produtos com diferentes atributos.
+- **Dados de Telemetria:** Armazenamento de grandes volumes de dados de telemetria gerados por dispositivos IoT.
+
+## Funcionalidades Adicionais
+
+- **PartitionKey e RowKey:** Utiliza chaves compostas para garantir a rápida recuperação de dados.
+- **Transações:** Suporte a transações atômicas em um único grupo de partições.
+- **Consulta de Dados:** Suporte para consultas OData para acessar dados usando filtros e projeções.
+
+## Exemplo de Uso
+
+### Inserir e Consultar Dados
+
+```python
+from azure.data.tables import TableServiceClient, TableClient, UpdateMode
+
+# Conectar ao serviço de tabela
+connection_string = "sua_connection_string"
+table_service = TableServiceClient.from_connection_string(conn_str=connection_string)
+
+# Criar uma tabela
+table_client = table_service.create_table_if_not_exists(table_name="minhaTabela")
+
+# Inserir uma entidade
+entity = {
+    "PartitionKey": "particao1",
+    "RowKey": "linha1",
+    "Nome": "Produto1",
+    "Preco": 19.99
+}
+table_client.upsert_entity(entity, mode=UpdateMode.MERGE)
+
+# Consultar uma entidade
+entity = table_client.get_entity(partition_key="particao1", row_key="linha1")
+print(entity)

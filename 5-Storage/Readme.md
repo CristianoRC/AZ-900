@@ -2,6 +2,7 @@
 
 Em uma conta de armazenamento no Azure temos alguns recursos: Blob Sotrage, Queue Storage, Table Storage e File Storage
 
+
 ![-](https://wakeupandcode.com/wp-content/uploads/2019/08/storage-icons.png)
 
 ## Blob Storage(Binary Large OBject)

@@ -1,0 +1,26 @@
+# Azure Queue Storage
+
+O **Azure Queue Storage** é um serviço de armazenamento de mensagens que permite a comunicação assíncrona entre componentes de uma aplicação distribuída. Ele é ideal para cenários em que diferentes partes de um sistema precisam se comunicar de forma desacoplada.
+
+## Características Principais
+
+- **Escalabilidade:** Suporta milhões de mensagens, permitindo escalabilidade conforme necessário.
+- **Acessibilidade:** Acesso a mensagens via chamadas HTTP/HTTPS.
+- **Durabilidade:** Armazenamento de mensagens persistentes com alta durabilidade.
+- **Simples de Usar:** Fácil integração com outros serviços do Azure e aplicativos externos.
+
+## Casos de Uso Comuns
+
+- **Processamento de Tarefas em Lote:** Enfileirar tarefas que precisam ser processadas em segundo plano.
+- **Comunicação entre Microserviços:** Facilitar a comunicação assíncrona entre diferentes componentes de uma aplicação baseada em microserviços.
+- **Balanceamento de Carga:** Distribuir o processamento de tarefas entre várias instâncias de um serviço.
+
+## Funcionalidades Adicionais
+
+- **Visibilidade da Mensagem:** Definir um intervalo de tempo durante o qual uma mensagem fica invisível após ser lida.
+- **TTL (Time-to-Live):** Especificar o tempo de vida de uma mensagem na fila.
+- **Poison Messages:** Identificar e lidar com mensagens que falham repetidamente no processamento.
+
+## Links Úteis
+
+Para mais informações detalhadas, consulte a [documentação oficial do Azure Queue Storage](https://learn.microsoft.com/pt-br/azure/storage/queues/storage-queues-introduction).

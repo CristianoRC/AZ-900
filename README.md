@@ -1,15 +1,9 @@
+Repositório em que fiz o Fork do repo disponibilizado pelo Cristiano, pois estava bem organizado para iniciar meus estudos para tirar a Certificação AZ 900. Fui adicionando mais arquivos Markdown em que fazia alguns resumos do curso de AZ 900 da Dio. 
+
+
 <img src="https://images.credly.com/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png" width="25%"/>
 
 # Estudos AZ-900 
-
-Documentação pessoal dos estudos para a certificação AZ 900
-
-1. [Introdução](./1-Introducao/Readme.md)
-1. [Estrutura Física](./2-EstruturaFisica/Readme.md)
-1. [Resource Group](./3-ResouceGroup/Readme.md)
-1. [Rede](./4-Rede/Readme.md)
-1. [Storage](./5-Storage/Readme.md)
-
 
 ## Dicas de conteúdos
 
